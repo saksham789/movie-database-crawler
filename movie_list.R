@@ -4,7 +4,7 @@ install.packages("rvest")
 p<-"http://www.bollywoodhungama.com/directory/movies-list/alphabet/@/page/#/"
 a<-LETTERS
 u<-c(NULL)
-for(i in 1:2){
+for(i in 1:length(a)){
   b<-  gsub("@",a[i],p)
   c<-gsub("#",2,b)
   url<-(c)
