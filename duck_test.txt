@@ -1,0 +1,4706 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--[if IE 6]><html class="ie6" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="lt-ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" />
+  <meta name="referrer" content="origin" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>A * Is Killed at DuckDuckGo</title>
+  <link title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml" rel="search" href="/opensearch_html.xml" />
+  <link href="/favicon.ico" rel="shortcut icon" />
+  <link rel="apple-touch-icon" href="/assets/logo_icon128.v101.png"/>
+  <link rel="image_src" href="/assets/logo_homepage.normal.v101.png"/>  
+  <link type="text/css" media="handheld, all" href="/h1402.css" rel="stylesheet" />
+</head>
+
+<body class="body--html">
+  <a name="top" id="top"></a>
+
+  <form action="/html/" method="post">
+    <input type="text" name="state_hidden" id="state_hidden" />
+  </form>
+
+  <div>
+    <div class="site-wrapper-border"></div>
+
+    <div id="header" class="header cw header--html">
+        <a title="DuckDuckGo" href="/html/" class="header__logo-wrap"></a>
+
+
+    <form name="x" class="header__form" action="/html/" method="post">
+
+      <div class="search search--header">
+          <input name="q" autocomplete="off" class="search__input" id="search_form_input_homepage" type="text" value="A * Is Killed" />
+          <input name="b" id="search_button_homepage" class="search__button search__button--html" value="" title="Search" alt="Search" type="submit" />
+      </div>
+
+
+        
+        
+        
+        
+        
+
+    
+    
+      <input name="kl" value="us-en" type="hidden" />
+        
+        
+    </form>
+
+    </div>
+
+
+<!-- If zero click results are present -->
+    <div class="zci-wrapper">
+      <div class="zci">
+        <h1 class="zci__heading">
+              <a rel="nofollow" href="https://en.wikipedia.org/wiki/Himesh_Reshammiya">Himesh Reshammiya</a>
+        </h1>
+
+
+          <div class="zci__result" id="zero_click_abstract">
+
+  
+            <a rel="nofollow" href="https://en.wikipedia.org/wiki/Himesh_Reshammiya">
+              <img alt=""
+                   title=""
+                   id="i0" class="zci__image" src="https://i.duckduckgo.com/i/08e451c5.jpg"
+                   style="visibility: visible;" name="i0" />
+            </a>
+    
+
+
+
+            Himesh Reshammiya is an Indian music director, singer, producer, lyricist, distributor and actor.
+            
+            <a rel="nofollow" href="https://en.wikipedia.org/wiki/Himesh_Reshammiya" >More at <q>Wikipedia</q></a>
+          
+          </div>
+
+      </div>
+    </div>
+
+
+
+
+<!-- Web results are present -->
+
+  <div>
+  <div class="serp__results">
+  <div id="links" class="results">
+
+      
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.merriam-webster.com/dictionary/killed"><b>Killed</b> | Definition of <b>Killed</b> by Merriam-Webster</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.merriam-webster.com/dictionary/killed">Define <b>killed</b>: being or containing a virus that has been inactivated (<b>as</b> by chemicals) so that it is no longer infectious — <b>killed</b> in a sentence</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.merriam-webster.com/dictionary/killed">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.merriam-webster.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.merriam-webster.com/dictionary/killed">
+                  merriam-webster.com/dictionary/killed
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.dictionary.com/browse/kill">Kill | Define Kill at Dictionary.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.dictionary.com/browse/kill">Kill definition, to deprive of life in any manner; cause the ... with no implication of the manner of killing, the agent or cause, or the nature of what is <b>killed</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.dictionary.com/browse/kill">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.dictionary.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.dictionary.com/browse/kill">
+                  dictionary.com/browse/kill
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.nytimes.com/2017/06/18/nyregion/second-cyclist-killed-bus-chelsea.html">For the 2nd Time in a Week, a Cyclist Is <b>Killed</b> by a Bus in ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.nytimes.com/2017/06/18/nyregion/second-cyclist-killed-bus-chelsea.html">An 80-year-old man on a bicycle was struck and <b>killed</b> on Saturday by a charter bus in the Chelsea section of Manhattan — the second time in a week that a ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.nytimes.com/2017/06/18/nyregion/second-cyclist-killed-bus-chelsea.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.nytimes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.nytimes.com/2017/06/18/nyregion/second-cyclist-killed-bus-chelsea.html">
+                  nytimes.com/2017/06/18/nyregion/second-cyclist-killed...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.nytimes.com/2016/03/26/world/middleeast/abd-al-rahman-mustafa-al-qaduli-isis-reported-killed-in-syria.html"><b>A</b> Top ISIS Leader Is <b>Killed</b> in an Airstrike, the Pentagon ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.nytimes.com/2016/03/26/world/middleeast/abd-al-rahman-mustafa-al-qaduli-isis-reported-killed-in-syria.html">WASHINGTON — American Special Operations forces in eastern Syria <b>killed</b> <b>a</b> top Islamic State commander this week, Pentagon officials said Friday, part of ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.nytimes.com/2016/03/26/world/middleeast/abd-al-rahman-mustafa-al-qaduli-isis-reported-killed-in-syria.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.nytimes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.nytimes.com/2016/03/26/world/middleeast/abd-al-rahman-mustafa-al-qaduli-isis-reported-killed-in-syria.html">
+                  nytimes.com/2016/03/26/world/middleeast/abd-al-rahman...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.npr.org/sections/parallels/2017/03/30/521901404/a-debt-collector-is-killed-in-china-triggering-debate-over-right-to-self-defense"><b>A</b> Debt Collector Is <b>Killed</b> In China, Triggering Debate Over ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.npr.org/sections/parallels/2017/03/30/521901404/a-debt-collector-is-killed-in-china-triggering-debate-over-right-to-self-defense"><b>A</b> Debt Collector Is <b>Killed</b> In China, Triggering Debate ... and the government allows it to become an outlet for people&#x27;s opinion,&quot; he told NPR in a ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.npr.org/sections/parallels/2017/03/30/521901404/a-debt-collector-is-killed-in-china-triggering-debate-over-right-to-self-defense">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.npr.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.npr.org/sections/parallels/2017/03/30/521901404/a-debt-collector-is-killed-in-china-triggering-debate-over-right-to-self-defense">
+                  npr.org/sections/parallels/2017/03/30/521901404/a...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.washingtonpost.com/news/animalia/wp/2017/03/07/a-seafood-company-killed-a-lobster-and-was-convicted-of-animal-cruelty/"><b>A</b> seafood company <b>killed</b> <b>a</b> lobster — and was convicted of ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.washingtonpost.com/news/animalia/wp/2017/03/07/a-seafood-company-killed-a-lobster-and-was-convicted-of-animal-cruelty/">An Australian seafood company was recently convicted of animal cruelty — for killing a lobster. The legally actionable problem was not actually taking the life of ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.washingtonpost.com/news/animalia/wp/2017/03/07/a-seafood-company-killed-a-lobster-and-was-convicted-of-animal-cruelty/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.washingtonpost.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.washingtonpost.com/news/animalia/wp/2017/03/07/a-seafood-company-killed-a-lobster-and-was-convicted-of-animal-cruelty/">
+                  washingtonpost.com/news/animalia/wp/2017/03/07/a-seafood-com...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.youtube.com/watch?v=MHbXljY5Lhk"><b>A</b> Star Is <b>Killed</b> - Theatrical Trailer Ft. Himesh Reshammiya ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.youtube.com/watch?v=MHbXljY5Lhk"><b>A</b> Star Is <b>Killed</b> - Theatrical Trailer Ft. Himesh Reshammiya [HD] Anvay Patil. Loading ... A Star is <b>killed</b> (movie trailer) - Duration: 2:49.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.youtube.com/watch?v=MHbXljY5Lhk">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.youtube.com/watch?v=MHbXljY5Lhk">
+                  youtube.com/watch?v=MHbXljY5Lhk
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.thesaurus.com/browse/killed"><b>Killed</b> Synonyms, <b>Killed</b> Antonyms | Thesaurus.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.thesaurus.com/browse/killed">Synonyms for <b>killed</b> at Thesaurus.com with free online thesaurus, antonyms, and definitions. Dictionary and Word of the Day.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.thesaurus.com/browse/killed">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.thesaurus.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.thesaurus.com/browse/killed">
+                  thesaurus.com/browse/killed
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.wikipedia.org/wiki/A_*_Is_Killed">Himesh Reshammiya - Wikipedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.wikipedia.org/wiki/A_*_Is_Killed">Edit this page; Read in another language; Himesh Reshammiya (Redirected from A <b>*</b> <b>Is</b> <b>Killed</b>)</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.wikipedia.org/wiki/A_*_Is_Killed">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/en.wikipedia.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.wikipedia.org/wiki/A_*_Is_Killed">
+                  en.wikipedia.org/wiki/A_*_Is_Killed
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.nationalreview.com/article/385458/cop-killed-every-58-hours-michelle-malkin"><b>A</b> Cop Is <b>Killed</b> Every 58 Hours - | National Review</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.nationalreview.com/article/385458/cop-killed-every-58-hours-michelle-malkin">If you&#x27;ve been watching cable news, reading Hollywood celebrities&#x27; tweets, and listening to race-hustling opportunists, you might think that every police officer ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.nationalreview.com/article/385458/cop-killed-every-58-hours-michelle-malkin">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.nationalreview.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.nationalreview.com/article/385458/cop-killed-every-58-hours-michelle-malkin">
+                  nationalreview.com/article/385458/cop-killed-every-58-hours-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.wikipedia.org/wiki/Killed_in_action"><b>Killed</b> in action - Wikipedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.wikipedia.org/wiki/Killed_in_action"><b>Killed</b> in action (KIA) is a casualty classification generally used by militaries to describe the deaths of their own combatants at the hands of hostile forces. The ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.wikipedia.org/wiki/Killed_in_action">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/en.wikipedia.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.wikipedia.org/wiki/Killed_in_action">
+                  en.wikipedia.org/wiki/Killed_in_action
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.alternet.org/news-amp-politics/1-black-man-killed-every-28-hours-police-or-vigilantes-america-perpetually-war-its">1 Black Man Is <b>Killed</b> Every 28 Hours by Police or Vigilantes ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.alternet.org/news-amp-politics/1-black-man-killed-every-28-hours-police-or-vigilantes-america-perpetually-war-its">Police officers, security guards, or self-appointed vigilantes extrajudicially <b>killed</b> at least 313 African Americans in 2012 according to a recent study. This means a ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.alternet.org/news-amp-politics/1-black-man-killed-every-28-hours-police-or-vigilantes-america-perpetually-war-its">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.alternet.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.alternet.org/news-amp-politics/1-black-man-killed-every-28-hours-police-or-vigilantes-america-perpetually-war-its">
+                  alternet.org/news-amp-politics/1-black-man-killed-ever...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://shoebat.com/every-five-minutes-a-christian-is-killed-for-the-faith-click-here-to-save-christian-lives/">Every Five Minutes A Christian Is <b>Killed</b> For The Faith, Click ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://shoebat.com/every-five-minutes-a-christian-is-killed-for-the-faith-click-here-to-save-christian-lives/">Every Five Minutes A Christian Is <b>Killed</b> For The Faith, Click Here To Save Christian Lives . Donate Now. Christianity at War. Subscribe to our Newsletter! Follow.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://shoebat.com/every-five-minutes-a-christian-is-killed-for-the-faith-click-here-to-save-christian-lives/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/shoebat.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://shoebat.com/every-five-minutes-a-christian-is-killed-for-the-faith-click-here-to-save-christian-lives/">
+                  shoebat.com/every-five-minutes-a-christian-is-killed-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://ktla.com/2017/03/15/5-year-old-killed-in-south-l-a-hit-and-run-idd-reward-offered-in-search-for-driver/">5-Year-Old <b>Killed</b> in South L.A. Hit-and-Run IDd ... - KTLA</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://ktla.com/2017/03/15/5-year-old-killed-in-south-l-a-hit-and-run-idd-reward-offered-in-search-for-driver/"><b>A</b> man has turned himself in to Los Angeles police Wednesday in connection with a hit-and-run crash that <b>killed</b> <b>a</b> 5-year-old boy in South Los Angeles and ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://ktla.com/2017/03/15/5-year-old-killed-in-south-l-a-hit-and-run-idd-reward-offered-in-search-for-driver/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/ktla.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://ktla.com/2017/03/15/5-year-old-killed-in-south-l-a-hit-and-run-idd-reward-offered-in-search-for-driver/">
+                  ktla.com/2017/03/15/5-year-old-killed-in-south-l-a...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database">The Counted: people <b>killed</b> by police in the United States ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database">The Guardian has been counting the people <b>killed</b> by US law enforcement agencies since 2015. Read their stories and contribute to our ongoing, crowdsourced project</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.theguardian.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database">
+                  theguardian.com/us-news/ng-interactive/2015/jun/01/the-co...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.npr.org/sections/thetwo-way/2016/08/13/489906652/the-volunteer-who-rescued-syrias-miracle-baby-is-killed-in-aleppo">The Volunteer Who Rescued Syria&#x27;s &#x27;Miracle Baby&#x27; Is <b>Killed</b> In ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.npr.org/sections/thetwo-way/2016/08/13/489906652/the-volunteer-who-rescued-syrias-miracle-baby-is-killed-in-aleppo">Khaled Omar Harrah, a volunteer rescuer who spent more than two years rushing to the scenes of airstrikes and barrel bombs to save lives, has been <b>killed</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.npr.org/sections/thetwo-way/2016/08/13/489906652/the-volunteer-who-rescued-syrias-miracle-baby-is-killed-in-aleppo">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.npr.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.npr.org/sections/thetwo-way/2016/08/13/489906652/the-volunteer-who-rescued-syrias-miracle-baby-is-killed-in-aleppo">
+                  npr.org/sections/thetwo-way/2016/08/13/489906652/...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.latimes.com/local/lanow/la-me-ln-deputy-shot-lancaster-20161005-snap-story.html">L.A. County sheriff&#x27;s sergeant is <b>killed</b> in Lancaster ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.latimes.com/local/lanow/la-me-ln-deputy-shot-lancaster-20161005-snap-story.html"><b>A</b> Los Angeles County sheriff&#x27;s sergeant <b>killed</b> Wednesday afternoon by a suspect in Lancaster, authorities said.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.latimes.com/local/lanow/la-me-ln-deputy-shot-lancaster-20161005-snap-story.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.latimes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.latimes.com/local/lanow/la-me-ln-deputy-shot-lancaster-20161005-snap-story.html">
+                  latimes.com/local/lanow/la-me-ln-deputy-shot-lancaste...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.merriam-webster.com/dictionary/kill">Kill | Definition of Kill by Merriam-Webster</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.merriam-webster.com/dictionary/kill">The disease has <b>killed</b> thousands of people. Three people were <b>killed</b> in the accident. a chemical that kills weeds. a disease that can kill. taking drugs to kill the pain</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.merriam-webster.com/dictionary/kill">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.merriam-webster.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.merriam-webster.com/dictionary/kill">
+                  merriam-webster.com/dictionary/kill
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://fox59.com/2017/06/18/police-search-for-stabbing-suspect-after-man-is-killed-wife-is-seriously-injured-in-lebanon-home/">Police have person of interest in custody after man is <b>killed</b> ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://fox59.com/2017/06/18/police-search-for-stabbing-suspect-after-man-is-killed-wife-is-seriously-injured-in-lebanon-home/">Police have person of interest in custody after man is <b>killed</b>, wife is seriously injured in Lebanon home</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://fox59.com/2017/06/18/police-search-for-stabbing-suspect-after-man-is-killed-wife-is-seriously-injured-in-lebanon-home/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/fox59.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://fox59.com/2017/06/18/police-search-for-stabbing-suspect-after-man-is-killed-wife-is-seriously-injured-in-lebanon-home/">
+                  fox59.com/2017/06/18/police-search-for-stabbing-sus...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.newser.com/story/244483/teen-halfway-done-with-race-is-killed-by-black-bear.html">Teen Halfway Done With Race Is <b>Killed</b> by Black Bear</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.newser.com/story/244483/teen-halfway-done-with-race-is-killed-by-black-bear.html">&quot;This is the worst thing that could happen,&quot; says the director of an Alaska trail race that ended in tragedy Sunday. A 16-year-old participant was <b>killed</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.newser.com/story/244483/teen-halfway-done-with-race-is-killed-by-black-bear.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.newser.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.newser.com/story/244483/teen-halfway-done-with-race-is-killed-by-black-bear.html">
+                  newser.com/story/244483/teen-halfway-done-with-race-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.washingtonpost.com/news/politics/wp/2017/03/21/a-dog-in-idaho-was-killed-by-a-cyanide-trap-laid-by-the-u-s-government/"><b>A</b> dog in Idaho was <b>killed</b> by a cyanide trap laid by the U.S ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.washingtonpost.com/news/politics/wp/2017/03/21/a-dog-in-idaho-was-killed-by-a-cyanide-trap-laid-by-the-u-s-government/">Hundreds of mostly wild animals are accidentally <b>killed</b> by the traps each year.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.washingtonpost.com/news/politics/wp/2017/03/21/a-dog-in-idaho-was-killed-by-a-cyanide-trap-laid-by-the-u-s-government/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.washingtonpost.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.washingtonpost.com/news/politics/wp/2017/03/21/a-dog-in-idaho-was-killed-by-a-cyanide-trap-laid-by-the-u-s-government/">
+                  washingtonpost.com/news/politics/wp/2017/03/21/a-dog-in-idah...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.thefreedictionary.com/killed"><b>Killed</b> - definition of <b>killed</b> by The Free Dictionary</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.thefreedictionary.com/killed"><b>killed</b> (kĭld) adj. 1. Put to death. Often used in combination: fresh-<b>killed</b> meat. 2. Of, relating to, or containing microorganisms or infectious agents that have ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.thefreedictionary.com/killed">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.thefreedictionary.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.thefreedictionary.com/killed">
+                  thefreedictionary.com/killed
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.wsj.com/articles/pakistani-internet-celebrity-qandeel-baloch-killed-in-honor-killing-1468675455">Qandeel Baloch, a Pakistani Internet Celebrity, Is <b>Killed</b> in ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.wsj.com/articles/pakistani-internet-celebrity-qandeel-baloch-killed-in-honor-killing-1468675455">Qandeel Baloch, a Pakistani internet celebrity, was killeld by her brother in a suspected &quot;honor&quot; killing, the police said Saturday. Ms. Baloch was known for her ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.wsj.com/articles/pakistani-internet-celebrity-qandeel-baloch-killed-in-honor-killing-1468675455">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.wsj.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.wsj.com/articles/pakistani-internet-celebrity-qandeel-baloch-killed-in-honor-killing-1468675455">
+                  wsj.com/articles/pakistani-internet-celebrity-qan...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://newsinfo.inquirer.net/906158/russia-claims-it-has-killed-is-leader-al-baghdadi">Russia claims it has <b>killed</b> <b>IS</b> leader al-Baghdadi | Inquirer News</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://newsinfo.inquirer.net/906158/russia-claims-it-has-killed-is-leader-al-baghdadi">Russia claimed Friday it <b>killed</b> the leader of the Islamic State group in an airstrike targeting a meeting of IS leaders just outside the group&#x27;s de facto capital in ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://newsinfo.inquirer.net/906158/russia-claims-it-has-killed-is-leader-al-baghdadi">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/newsinfo.inquirer.net.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://newsinfo.inquirer.net/906158/russia-claims-it-has-killed-is-leader-al-baghdadi">
+                  newsinfo.inquirer.net/906158/russia-claims-it-has-killed-is-lea...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.cnn.com/2015/06/16/middleeast/yemen-aqap-leader-killed/index.html">Al Qaeda No. 2 leader Nasir al-Wuhayshi <b>killed</b> in Yemen - CNN</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.cnn.com/2015/06/16/middleeast/yemen-aqap-leader-killed/index.html">Al Qaeda&#x27;s second in command, Nasir al-Wuhayshi, has been <b>killed</b> in a drone strike in Yemen, dealing a heavy setback to the terrorist organization.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.cnn.com/2015/06/16/middleeast/yemen-aqap-leader-killed/index.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.cnn.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.cnn.com/2015/06/16/middleeast/yemen-aqap-leader-killed/index.html">
+                  cnn.com/2015/06/16/middleeast/yemen-aqap-leader-k...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.salon.com/2017/05/27/who-killed-sister-cathy-that-is-and-isnt-the-story-of-neftlixs-latest-true-crime-show/">Who <b>killed</b> Sister Cathy? That is — and isn&#x27;t — the story of ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.salon.com/2017/05/27/who-killed-sister-cathy-that-is-and-isnt-the-story-of-neftlixs-latest-true-crime-show/">&quot;The Keepers&quot; is as riveting as a crime series gets. It also exposes pitfalls of the prestige true crime formula</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.salon.com/2017/05/27/who-killed-sister-cathy-that-is-and-isnt-the-story-of-neftlixs-latest-true-crime-show/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.salon.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.salon.com/2017/05/27/who-killed-sister-cathy-that-is-and-isnt-the-story-of-neftlixs-latest-true-crime-show/">
+                  salon.com/2017/05/27/who-killed-sister-cathy-that-i...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.ksl.com/?sid=43600885&amp;nid=148&amp;title=utah-man-killed-wife-injured-in-london-attack">West Bountiful man <b>killed</b>, wife injured in London attack ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.ksl.com/?sid=43600885&amp;nid=148&amp;title=utah-man-killed-wife-injured-in-london-attack">Community members are remembering a West Bountiful man who was <b>killed</b> during a terror attack in London Wednesday as a very kind neighbor who was involved in the local ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.ksl.com/?sid=43600885&amp;nid=148&amp;title=utah-man-killed-wife-injured-in-london-attack">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.ksl.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.ksl.com/?sid=43600885&amp;nid=148&amp;title=utah-man-killed-wife-injured-in-london-attack">
+                  ksl.com/?sid=43600885&amp;nid=148&amp;title=utah-man-kill...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.businessinsider.com/what-is-the-risk-of-being-killed-by-a-foreign-terrorist-trump-ban2017-1">What <b>is</b> the risk of being <b>killed</b> by a foreign terrorist ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.businessinsider.com/what-is-the-risk-of-being-killed-by-a-foreign-terrorist-trump-ban2017-1">In the past 41 years, no American has been <b>killed</b> on US soil by a terrorist from any of the seven countries included in President Donald Trump&#x27;s ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.businessinsider.com/what-is-the-risk-of-being-killed-by-a-foreign-terrorist-trump-ban2017-1">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.businessinsider.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.businessinsider.com/what-is-the-risk-of-being-killed-by-a-foreign-terrorist-trump-ban2017-1">
+                  businessinsider.com/what-is-the-risk-of-being-killed-by-a-for...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.wisegeek.com/what-is-killed-steel.htm">What <b>is</b> <b>Killed</b> Steel? (with pictures) - wiseGEEK</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.wisegeek.com/what-is-killed-steel.htm"><b>Killed</b> steel is a type of steel that&#x27;s been treated to fully deoxidize it when it&#x27;s processed during the casting phase. This makes...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.wisegeek.com/what-is-killed-steel.htm">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.wisegeek.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.wisegeek.com/what-is-killed-steel.htm">
+                  wisegeek.com/what-is-killed-steel.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.corrosionpedia.com/definition/1584/killed-steel">What <b>is</b> <b>Killed</b> Steel? - Definition from Corrosionpedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.corrosionpedia.com/definition/1584/killed-steel"><b>Killed</b> Steel Definition - When steel has been fully deoxidized before casting and no gas was evolved during solidification, the resultant steel <b>is</b>...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.corrosionpedia.com/definition/1584/killed-steel">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.corrosionpedia.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.corrosionpedia.com/definition/1584/killed-steel">
+                  corrosionpedia.com/definition/1584/killed-steel
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+
+        
+        
+                <div class="nav-link">
+        <form action="/html/" method="post">
+          <input type="submit" class='btn btn--alt' value="Next" />
+          <input type="hidden" name="q" value="A * Is Killed" />
+          <input type="hidden" name="s" value="30" />
+          <input type="hidden" name="nextParams" value="Keywords=A%20*%20Is%20Killed&amp;xargs=12KPjg1pZSrp68i%2D%5FoMPCRErjGnQNVmZ615JIuTcQ%5FQZAD6A5dYdR%5FePqBypItDrUtu0KJk6nQo%5FpPIfD7ucu6&amp;hData=12KPjg1qdOxJy7tuqnF9W2TeKj8m4%2E" />
+          <input type="hidden" name="v" value="l" />
+          <input type="hidden" name="o" value="json" />
+          <input type="hidden" name="dc" value="31" />
+          <input type="hidden" name="api" value="/d.js" />
+
+            
+            
+        
+          <input name="kl" value="us-en" type="hidden" />
+            
+            
+            
+            
+            
+        </form>
+                </div>
+        
+
+
+
+        <div class=" feedback-btn">
+            <a rel="nofollow" href="/feedback.html" target="_new">Feedback</a>
+        </div>
+        <div style="clear:both;"></div>
+  </div>
+  </div> <!-- links wrapper //--> 
+
+    
+
+
+
+    </div>
+  </div>
+
+
+
+
+    <div id="bottom_spacing2"></div>
+
+    
+      <img src="/t/sl_h"/>
+    
+    <img src="/daily/?h" />
+    <img src="/weekly/?h" />
+</body>
+</html>
+
+error occured
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--[if IE 6]><html class="ie6" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="lt-ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" />
+  <meta name="referrer" content="origin" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>A All About Her at DuckDuckGo</title>
+  <link title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml" rel="search" href="/opensearch_html.xml" />
+  <link href="/favicon.ico" rel="shortcut icon" />
+  <link rel="apple-touch-icon" href="/assets/logo_icon128.v101.png"/>
+  <link rel="image_src" href="/assets/logo_homepage.normal.v101.png"/>  
+  <link type="text/css" media="handheld, all" href="/h1402.css" rel="stylesheet" />
+</head>
+
+<body class="body--html">
+  <a name="top" id="top"></a>
+
+  <form action="/html/" method="post">
+    <input type="text" name="state_hidden" id="state_hidden" />
+  </form>
+
+  <div>
+    <div class="site-wrapper-border"></div>
+
+    <div id="header" class="header cw header--html">
+        <a title="DuckDuckGo" href="/html/" class="header__logo-wrap"></a>
+
+
+    <form name="x" class="header__form" action="/html/" method="post">
+
+      <div class="search search--header">
+          <input name="q" autocomplete="off" class="search__input" id="search_form_input_homepage" type="text" value="A All About Her" />
+          <input name="b" id="search_button_homepage" class="search__button search__button--html" value="" title="Search" alt="Search" type="submit" />
+      </div>
+
+
+        
+        
+        
+        
+        
+
+    
+    
+      <input name="kl" value="us-en" type="hidden" />
+        
+        
+    </form>
+
+    </div>
+
+
+
+
+
+<!-- Web results are present -->
+
+  <div>
+  <div class="serp__results">
+  <div id="links" class="results">
+
+      
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allabouther.net.au/"><b>All</b> <b>About</b> <b>Her</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allabouther.net.au/"><b>All</b> <b>About</b> <b>Her</b> One of Adelaide&#x27;s freshest live entertainment acts for <b>all</b> occasions. Duo, trio, 4, 5 &amp; 6-piece, geared for whatever you need. Contact Us!</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allabouther.net.au/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allabouther.net.au.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allabouther.net.au/">
+                  allabouther.net.au
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://allaboutherbras.com/"><b>All</b> <b>About</b> <b>Her</b> Bras | <b>All</b> <b>About</b> <b>Her</b> Bras</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://allaboutherbras.com/">My friend Marganita from Mexico will be very happy with her bra and prosthesis!</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://allaboutherbras.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/allaboutherbras.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://allaboutherbras.com/">
+                  allaboutherbras.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allaboutherexpos.com/"><b>All</b> <b>About</b> <b>HER</b> Expos - Home</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allaboutherexpos.com/">&quot;<b>All</b> <b>About</b> <b>HER</b> Expos&quot; is a National Premier Expo featuring <b>all</b> the latest in Fashion, Pampering, Relaxation, Fitness, Food &amp; More!</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allaboutherexpos.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allaboutherexpos.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allaboutherexpos.com/">
+                  allaboutherexpos.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.facebook.com/pages/All-About-Her/254589347887863"><b>All</b> <b>About</b> <b>Her</b> - Home | Facebook</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.facebook.com/pages/All-About-Her/254589347887863"><b>All</b> <b>About</b> <b>Her</b>, Baxley, Georgia. 2K likes. Shopping &amp; Retail</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.facebook.com/pages/All-About-Her/254589347887863">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.facebook.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.facebook.com/pages/All-About-Her/254589347887863">
+                  facebook.com/pages/All-About-Her/254589347887863
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.imdb.com/title/tt2274650/"><b>All</b> <b>About</b> <b>Her</b> (2012) - IMDb</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.imdb.com/title/tt2274650/">It has been one year since Chady, 23 year old, and Sarah, 21 year old, had spent one memorable night on New Year&#x27;s eve together. Hoping to find her there as she ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.imdb.com/title/tt2274650/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.imdb.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.imdb.com/title/tt2274650/">
+                  imdb.com/title/tt2274650/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.amazon.com/Its-All-About-Her-Hamilton/dp/0615748007">It&#x27;s <b>All</b> <b>About</b> <b>Her</b> - amazon.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.amazon.com/Its-All-About-Her-Hamilton/dp/0615748007">It&#x27;s <b>All</b> <b>About</b> <b>Her</b> [Jim Hamilton] on Amazon.com. *FREE* shipping on qualifying offers. The multitude of pressures that lead relationships between couples from their ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.amazon.com/Its-All-About-Her-Hamilton/dp/0615748007">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.amazon.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.amazon.com/Its-All-About-Her-Hamilton/dp/0615748007">
+                  amazon.com/Its-All-About-Her-Hamilton/dp/0615748007
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.youtube.com/watch?v=U9J7Ep2WZwg"><b>All</b> <b>About</b> <b>Her</b>-Smoove - YouTube</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.youtube.com/watch?v=U9J7Ep2WZwg"><b>All</b> <b>About</b> <b>Her</b>-Smoove icecoldbruh. Loading ... Rude boys - Written <b>all</b> over your face - Duration: 6:23. ladygirl99 4,899,548 views. 6:23. 50+ videos Play <b>all</b></a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.youtube.com/watch?v=U9J7Ep2WZwg">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.youtube.com/watch?v=U9J7Ep2WZwg">
+                  youtube.com/watch?v=U9J7Ep2WZwg
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.youtube.com/watch?v=ojt7bBiuKgA"><b>All</b> <b>About</b> <b>Her</b> - Gord Bamford - YouTube</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.youtube.com/watch?v=ojt7bBiuKgA">Gord Bamford - <b>All</b> <b>About</b> <b>Her</b> Video. Gord Bamford - <b>All</b> <b>About</b> <b>Her</b> Video. Skip navigation ... 50+ videos Play <b>all</b> Play now; Mix - <b>All</b> <b>About</b> <b>Her</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.youtube.com/watch?v=ojt7bBiuKgA">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.youtube.com/watch?v=ojt7bBiuKgA">
+                  youtube.com/watch?v=ojt7bBiuKgA
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.azlyrics.com/lyrics/newfoundglory/allabouther.html">New Found Glory Lyrics - <b>All</b> <b>About</b> <b>Her</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.azlyrics.com/lyrics/newfoundglory/allabouther.html">Lyrics to &quot;<b>All</b> <b>About</b> <b>Her</b>&quot; song by New Found Glory: Let me practice this before I say it to you I know it might come out wrong but I want it to Anothe...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.azlyrics.com/lyrics/newfoundglory/allabouther.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.azlyrics.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.azlyrics.com/lyrics/newfoundglory/allabouther.html">
+                  azlyrics.com/lyrics/newfoundglory/allabouther.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allabouther.com/"><b>All</b> <b>About</b> <b>Her</b>.com | Coming Soon!</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allabouther.com/"><b>All</b> <b>About</b> <b>Her</b>.com | Coming Soon!</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allabouther.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allabouther.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allabouther.com/">
+                  allabouther.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allabouther.co.uk/"><b>All</b> <b>About</b> <b>Her</b> - A Family Lifestyle Blog</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allabouther.co.uk/"><b>All</b> <b>About</b> <b>Her</b> Home; <b>ABOUT</b>; Contact Me <b>&#x27;A</b> BLUEBELL WALK&#x27; - THE ORDINARY MOMENTS 2017 #4 Posted in: ORDINARY MOMENTS View Post. A 75TH BIRTHDAY AT RHS GARDEN WISLEY</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allabouther.co.uk/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allabouther.co.uk.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allabouther.co.uk/">
+                  allabouther.co.uk
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.hsn.com/products/anna-griffin-396-pack-all-about-her-die-cuts/7638569">Anna Griffin® 396-pack &quot;<b>All</b> <b>About</b> <b>Her</b>&quot; Die-Cuts - 7638569 | HSN</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.hsn.com/products/anna-griffin-396-pack-all-about-her-die-cuts/7638569">Acclaimed designer Anna Griffin offers a collection of high-quality crafting products, accessories and home lifestyle pieces, <b>all</b> in her sophisticated signature style ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.hsn.com/products/anna-griffin-396-pack-all-about-her-die-cuts/7638569">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.hsn.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.hsn.com/products/anna-griffin-396-pack-all-about-her-die-cuts/7638569">
+                  hsn.com/products/anna-griffin-396-pack-all-about-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.lyricsmode.com/lyrics/n/new_found_glory/all_about_her.html#!">New Found Glory - <b>All</b> <b>About</b> <b>Her</b> lyrics | LyricsMode.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.lyricsmode.com/lyrics/n/new_found_glory/all_about_her.html#!"><b>All</b> <b>About</b> <b>Her</b> lyrics by New Found Glory: Let me practice this before I say it to you / I know it might come out wrong but I want it to</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.lyricsmode.com/lyrics/n/new_found_glory/all_about_her.html#!">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.lyricsmode.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.lyricsmode.com/lyrics/n/new_found_glory/all_about_her.html#!">
+                  lyricsmode.com/lyrics/n/new_found_glory/all_about_her.ht...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.yellowpages.com/wichita-ks/mip/all-about-her-472775189"><b>All</b> <b>About</b> <b>Her</b> Wichita, KS 67218 - YP.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.yellowpages.com/wichita-ks/mip/all-about-her-472775189">Get reviews, hours, directions, coupons and more for <b>All</b> <b>About</b> <b>Her</b> at 536 S Bluff St, Wichita, KS. Search for other Bras in Wichita on YP.com.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.yellowpages.com/wichita-ks/mip/all-about-her-472775189">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.yellowpages.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.yellowpages.com/wichita-ks/mip/all-about-her-472775189">
+                  yellowpages.com/wichita-ks/mip/all-about-her-472775189
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.femalenarcissist.com/">Surviving the Female Narcissist | It&#x27;s <b>All</b> <b>About</b> <b>Her</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.femalenarcissist.com/">It is easy to fall for the female narcissist. They are captivating, alluring and often the life of the party. To spend time with them is exciting and fun. &quot;It&#x27;s ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.femalenarcissist.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.femalenarcissist.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.femalenarcissist.com/">
+                  femalenarcissist.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.itsallabouther.ca/">It&#x27;s <b>All</b> <b>About</b> <b>Her</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.itsallabouther.ca/">Performing. Irish Mythen returns to &quot;It&#x27;s <b>All</b> <b>About</b> <b>Her</b>&quot; for the third time. This short little package of energy can electrify a room in seconds with her ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.itsallabouther.ca/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.itsallabouther.ca.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.itsallabouther.ca/">
+                  itsallabouther.ca
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.metrolyrics.com/all-about-her-lyrics-new-found-glory.html">New Found Glory - <b>All</b> <b>About</b> <b>Her</b> Lyrics | MetroLyrics</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.metrolyrics.com/all-about-her-lyrics-new-found-glory.html">Lyrics to <b>&#x27;All</b> <b>About</b> <b>Her&#x27;</b> by New Found Glory. Let me practice this before I say it to you / I know it might come out wrong but I want it to / Another chance to</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.metrolyrics.com/all-about-her-lyrics-new-found-glory.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.metrolyrics.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.metrolyrics.com/all-about-her-lyrics-new-found-glory.html">
+                  metrolyrics.com/all-about-her-lyrics-new-found-glory.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allmusic.com/album/all-about-her-mw0000952624/credits"><b>All</b> <b>About</b> <b>Her</b> - Smoove | Credits | AllMusic</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allmusic.com/album/all-about-her-mw0000952624/credits">Find album credit information for <b>All</b> <b>About</b> <b>Her</b> - Smoove on AllMusic</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allmusic.com/album/all-about-her-mw0000952624/credits">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allmusic.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allmusic.com/album/all-about-her-mw0000952624/credits">
+                  allmusic.com/album/all-about-her-mw0000952624/credits
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://allabouther.com.au/"><b>All</b> <b>About</b> <b>Her</b> - Tara Hayes</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://allabouther.com.au/">LOVING THIS GENTLE CLEANSER/ MAKE UP REMOVER . Saturday, 1st October 2016</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://allabouther.com.au/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/allabouther.com.au.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://allabouther.com.au/">
+                  allabouther.com.au
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.yellowpages.com/baxley-ga/mip/all-about-her-472130565"><b>All</b> <b>About</b> <b>Her</b> Baxley, GA 31513 - YP.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.yellowpages.com/baxley-ga/mip/all-about-her-472130565">Get reviews, hours, directions, coupons and more for <b>All</b> <b>About</b> <b>Her</b> at 9 NE Park Ave, Baxley, GA. Search for other Formal Wear Rental &amp; Sales in Baxley on YP.com.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.yellowpages.com/baxley-ga/mip/all-about-her-472130565">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.yellowpages.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.yellowpages.com/baxley-ga/mip/all-about-her-472130565">
+                  yellowpages.com/baxley-ga/mip/all-about-her-472130565
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.superpages.com/bp/pace-fl/all-about-her-L0118667404.htm"><b>All</b> <b>About</b> <b>Her</b> in Milton, FL | 4515 Chumuckla Hwy, Milton, FL</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.superpages.com/bp/pace-fl/all-about-her-L0118667404.htm"><b>All</b> <b>About</b> <b>Her</b> in Milton, FL -- Map, Phone Number, Reviews, Photos and Video Profile for Milton FL <b>All</b> <b>About</b> <b>Her</b>. <b>All</b> <b>About</b> <b>Her</b> appears in: Clothing &amp; Accessories ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.superpages.com/bp/pace-fl/all-about-her-L0118667404.htm">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.superpages.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.superpages.com/bp/pace-fl/all-about-her-L0118667404.htm">
+                  superpages.com/bp/pace-fl/all-about-her-L0118667404.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.yelp.com/biz/all-about-her-rogers"><b>All</b> <b>About</b> <b>Her</b> - Accessories - 3201 Market St, Rogers, AR ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.yelp.com/biz/all-about-her-rogers"><b>All</b> <b>About</b> <b>Her</b> in Rogers, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what&#x27;s great and not so great in Rogers and beyond.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.yelp.com/biz/all-about-her-rogers">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.yelp.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.yelp.com/biz/all-about-her-rogers">
+                  yelp.com/biz/all-about-her-rogers
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.allaboutherexpos.com/expos.html">Expos - <b>All</b> <b>About</b> <b>HER</b> Expos</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.allaboutherexpos.com/expos.html">2017 Upcoming Schedule: Omaha Women&#x27;s Expo April 22, 2017 Omaha Holiday Expo ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.allaboutherexpos.com/expos.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.allaboutherexpos.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.allaboutherexpos.com/expos.html">
+                  allaboutherexpos.com/expos.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.itsallabouther.com/">Welcome to It&#x27;s <b>All</b> <b>About</b> <b>Her</b></a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.itsallabouther.com/"><b>A</b> marketing program for businesses and an online resource tool for women users who want those less obvious and sometimes obvious ideas and resources they need to ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.itsallabouther.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.itsallabouther.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.itsallabouther.com/">
+                  itsallabouther.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.imdb.com/title/tt1798709/reviews"><b>Her</b> Reviews &amp; Ratings - IMDb</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.imdb.com/title/tt1798709/reviews">Review: I love everything about Her - This is the best film I have seen <b>all</b> year, and I saw just about every good film to hit theaters in 2013. I think...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.imdb.com/title/tt1798709/reviews">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.imdb.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.imdb.com/title/tt1798709/reviews">
+                  imdb.com/title/tt1798709/reviews
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.superpages.com/bp/baxley-ga/all-about-her-L0096263542.htm"><b>All</b> <b>About</b> <b>Her</b> in Baxley, GA | 9 NE Park Ave, Baxley, GA</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.superpages.com/bp/baxley-ga/all-about-her-L0096263542.htm"><b>All</b> <b>About</b> <b>Her</b> in Baxley, GA -- Map, Phone Number, Reviews, Photos and Video Profile for Baxley GA <b>All</b> <b>About</b> <b>Her</b>. <b>All</b> <b>About</b> <b>Her</b> appears in: Formal Wear Sales &amp; Rental</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.superpages.com/bp/baxley-ga/all-about-her-L0096263542.htm">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.superpages.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.superpages.com/bp/baxley-ga/all-about-her-L0096263542.htm">
+                  superpages.com/bp/baxley-ga/all-about-her-L0096263542.htm
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://allaboutherbras.1wp.com/">allaboutherbras &gt; Home</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://allaboutherbras.1wp.com/"><b>All</b> <b>About</b> <b>Her</b> offers a variety of fashion and mastectomy bras with hard to find sizes, breast prostheses, post-surgical camisoles and swimwear. Monday ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://allaboutherbras.1wp.com/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/allaboutherbras.1wp.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://allaboutherbras.1wp.com/">
+                  allaboutherbras.1wp.com
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+
+        
+        
+                <div class="nav-link">
+        <form action="/html/" method="post">
+          <input type="submit" class='btn btn--alt' value="Next" />
+          <input type="hidden" name="q" value="A All About Her" />
+          <input type="hidden" name="s" value="30" />
+          <input type="hidden" name="nextParams" value="Keywords=A%20All%20About%20Her&amp;xargs=12KPjg1pZSrp68i%2D%5FoMPCRErjGnQNVmZ%2D85JIuTcQ%5FQZAD6A5dYdR4ePqBypItDrUtu0KJk6nQo%5FpPIfD7ucu6&amp;hData=12KPjg1o1gk7H%2Dub%2DodMjJSeSLxigInJCxhMoYDpN5a9Rb93tpJ%2DR3T5Px" />
+          <input type="hidden" name="v" value="l" />
+          <input type="hidden" name="o" value="json" />
+          <input type="hidden" name="dc" value="28" />
+          <input type="hidden" name="api" value="/d.js" />
+
+            
+            
+        
+          <input name="kl" value="us-en" type="hidden" />
+            
+            
+            
+            
+            
+        </form>
+                </div>
+        
+
+
+
+        <div class=" feedback-btn">
+            <a rel="nofollow" href="/feedback.html" target="_new">Feedback</a>
+        </div>
+        <div style="clear:both;"></div>
+  </div>
+  </div> <!-- links wrapper //--> 
+
+    
+
+
+
+    </div>
+  </div>
+
+
+
+
+    <div id="bottom_spacing2"></div>
+
+    
+      <img src="/t/sl_h"/>
+    
+    <img src="/daily/?h" />
+    <img src="/weekly/?h" />
+</body>
+</html>
+
+error occured
+error occured
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--[if IE 6]><html class="ie6" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="lt-ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" />
+  <meta name="referrer" content="origin" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>A Death in the Gunj at DuckDuckGo</title>
+  <link title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml" rel="search" href="/opensearch_html.xml" />
+  <link href="/favicon.ico" rel="shortcut icon" />
+  <link rel="apple-touch-icon" href="/assets/logo_icon128.v101.png"/>
+  <link rel="image_src" href="/assets/logo_homepage.normal.v101.png"/>  
+  <link type="text/css" media="handheld, all" href="/h1402.css" rel="stylesheet" />
+</head>
+
+<body class="body--html">
+  <a name="top" id="top"></a>
+
+  <form action="/html/" method="post">
+    <input type="text" name="state_hidden" id="state_hidden" />
+  </form>
+
+  <div>
+    <div class="site-wrapper-border"></div>
+
+    <div id="header" class="header cw header--html">
+        <a title="DuckDuckGo" href="/html/" class="header__logo-wrap"></a>
+
+
+    <form name="x" class="header__form" action="/html/" method="post">
+
+      <div class="search search--header">
+          <input name="q" autocomplete="off" class="search__input" id="search_form_input_homepage" type="text" value="A Death in the Gunj" />
+          <input name="b" id="search_button_homepage" class="search__button search__button--html" value="" title="Search" alt="Search" type="submit" />
+      </div>
+
+
+        
+        
+        
+        
+        
+
+    
+    
+      <input name="kl" value="us-en" type="hidden" />
+        
+        
+    </form>
+
+    </div>
+
+
+<!-- If zero click results are present -->
+    <div class="zci-wrapper">
+      <div class="zci">
+        <h1 class="zci__heading">
+              <a rel="nofollow" href="https://en.wikipedia.org/wiki/A_Death_in_the_Gunj">A Death in the Gunj</a>
+        </h1>
+
+
+          <div class="zci__result" id="zero_click_abstract">
+
+  
+            <a rel="nofollow" href="https://en.wikipedia.org/wiki/A_Death_in_the_Gunj">
+              <img alt=""
+                   title=""
+                   id="i0" class="zci__image" src="https://i.duckduckgo.com/i/b59acb14.jpg"
+                   style="visibility: visible;" name="i0" />
+            </a>
+    
+
+
+
+            A Death In The Gunj is a 2017 Indian drama written and directed by Konkona Sen Sharma. It features an ensemble cast of Vikrant Massey, Tillotama Shome, Om Puri, Tanuja, Gulshan Devaiah, Kalki Koechlin, Jim Sarbh, and Ranvir Shorey. Produced by Ashish Bhatnagar, Vijay Kumar Swami, Raagii Bhatnagar, Abhishek Chaubey, and Honey Trehan under the banners of Studioz IDrream and MacGuffin Pictures, it is Sharma's directorial debut feature.
+            
+            <a rel="nofollow" href="https://en.wikipedia.org/wiki/A_Death_in_the_Gunj" >More at <q>Wikipedia</q></a>
+          
+          </div>
+
+      </div>
+    </div>
+
+
+
+
+<!-- Web results are present -->
+
+  <div>
+  <div class="serp__results">
+  <div id="links" class="results">
+
+      
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.imdb.com/title/tt5918074/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (2016) - IMDb</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.imdb.com/title/tt5918074/">Directed by Konkona Sen Sharma. With Chandram Bhagat, Gulshan Devaiah, Kalki Koechlin, Shimanti Kumari. Life for a shy young Indian student slowly falls to pieces ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.imdb.com/title/tt5918074/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.imdb.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.imdb.com/title/tt5918074/">
+                  imdb.com/title/tt5918074/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://en.wikipedia.org/wiki/A_Death_In_The_Gunj"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Wikipedia</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://en.wikipedia.org/wiki/A_Death_In_The_Gunj"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> is a 2017 Indian drama written and directed by Konkona Sen Sharma. It features an ensemble cast of Vikrant Massey, Tillotama Shome, ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://en.wikipedia.org/wiki/A_Death_In_The_Gunj">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/en.wikipedia.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://en.wikipedia.org/wiki/A_Death_In_The_Gunj">
+                  en.wikipedia.org/wiki/A_Death_In_The_Gunj
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.rottentomatoes.com/m/a_death_in_the_gunj"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (2016) - Rotten Tomatoes</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.rottentomatoes.com/m/a_death_in_the_gunj"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> is a coming of age story that centres around Shutu, our protagonist, and his conflicted ideas of masculinity. He finds himself navigating the ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.rottentomatoes.com/m/a_death_in_the_gunj">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.rottentomatoes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.rottentomatoes.com/m/a_death_in_the_gunj">
+                  rottentomatoes.com/m/a_death_in_the_gunj
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://in.bookmyshow.com/movies/a-death-in-the-gunj/ET00044500"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Movie (2017) | Reviews, Cast &amp; Release ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://in.bookmyshow.com/movies/a-death-in-the-gunj/ET00044500"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> (2017), drama thriller released in English language in theatre near you in . Know about Film reviews, lead cast &amp; crew, photos &amp; video gallery on ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://in.bookmyshow.com/movies/a-death-in-the-gunj/ET00044500">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/in.bookmyshow.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://in.bookmyshow.com/movies/a-death-in-the-gunj/ET00044500">
+                  in.bookmyshow.com/movies/a-death-in-the-gunj/ET00044500
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.bollywoodhungama.com/movie/a-death-in-the-gunj/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Bollywood Hungama</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.bollywoodhungama.com/movie/a-death-in-the-gunj/">Check out A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> latest news, videos, photos, songs, box office &amp; cast. Get the complete latest details of A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> only at Bollywood Hungama</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.bollywoodhungama.com/movie/a-death-in-the-gunj/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.bollywoodhungama.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.bollywoodhungama.com/movie/a-death-in-the-gunj/">
+                  bollywoodhungama.com/movie/a-death-in-the-gunj/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-death-in-the-gunj/movie-review/58948754.cms"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Review {3.5/5}: The movie will make you ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-death-in-the-gunj/movie-review/58948754.cms"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Movie Review: Nandu and Bonnie go back home to McCluskiegunj for a week. The house soon fills up with old friends and new equations as ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-death-in-the-gunj/movie-review/58948754.cms">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/timesofindia.indiatimes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-death-in-the-gunj/movie-review/58948754.cms">
+                  timesofindia.indiatimes.com/entertainment/english/movie-reviews/a-dea...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.tiff.net/films/a-death-in-the-gunj/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Toronto International Film Festival</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.tiff.net/films/a-death-in-the-gunj/">TIFF is a charitable cultural organization with a mission to transform the way people see the world, through film.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.tiff.net/films/a-death-in-the-gunj/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.tiff.net.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.tiff.net/films/a-death-in-the-gunj/">
+                  tiff.net/films/a-death-in-the-gunj/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.youtube.com/watch?v=XliKkuxa_nA"><b>A</b> <b>DEATH</b> <b>IN</b> <b>THE</b> <b>GUNJ</b> Trailer | Festival 2016 - YouTube</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.youtube.com/watch?v=XliKkuxa_nA">Award-winning actor Konkona Sensharma makes her feature debut as a writer-director with this coming-of-age story about a shy young Indian student who ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.youtube.com/watch?v=XliKkuxa_nA">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.youtube.com/watch?v=XliKkuxa_nA">
+                  youtube.com/watch?v=XliKkuxa_nA
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.ndtv.com/india-news/a-death-in-the-gunj-review-konkona-sen-sharma-crafts-a-chiselled-gem-1706758"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Review: Konkona Sen Sharma Crafts A ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.ndtv.com/india-news/a-death-in-the-gunj-review-konkona-sen-sharma-crafts-a-chiselled-gem-1706758"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Review: A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b>, steeped in nostalgia, is a consummate requiem to an era gone by</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.ndtv.com/india-news/a-death-in-the-gunj-review-konkona-sen-sharma-crafts-a-chiselled-gem-1706758">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.ndtv.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.ndtv.com/india-news/a-death-in-the-gunj-review-konkona-sen-sharma-crafts-a-chiselled-gem-1706758">
+                  ndtv.com/india-news/a-death-in-the-gunj-review-kon...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.hindustantimes.com/movie-reviews/a-death-in-the-gunj-movie-review-experimental-surreal-and-successful/story-XtQm5Ff3buS0iYo4I8ZT1O.html"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> movie review: Konkona Sensharma makes a ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.hindustantimes.com/movie-reviews/a-death-in-the-gunj-movie-review-experimental-surreal-and-successful/story-XtQm5Ff3buS0iYo4I8ZT1O.html">McCluskieganj, the town, isn&#x27;t a patch over its earlier self, but this story begins in 1979 when all wasn&#x27;t lost. Here&#x27;s the movie review of A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b>.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.hindustantimes.com/movie-reviews/a-death-in-the-gunj-movie-review-experimental-surreal-and-successful/story-XtQm5Ff3buS0iYo4I8ZT1O.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.hindustantimes.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.hindustantimes.com/movie-reviews/a-death-in-the-gunj-movie-review-experimental-surreal-and-successful/story-XtQm5Ff3buS0iYo4I8ZT1O.html">
+                  hindustantimes.com/movie-reviews/a-death-in-the-gunj-movie-r...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.hollywoodreporter.com/review/a-death-gunj-review-929148"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> Review | Hollywood Reporter</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.hollywoodreporter.com/review/a-death-gunj-review-929148">An Indian family gathering ends in tragedy in this Toronto world premiere from actor-turned-director Konkona Sensharma. Making her writer-director debut with A <b>Death</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.hollywoodreporter.com/review/a-death-gunj-review-929148">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.hollywoodreporter.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.hollywoodreporter.com/review/a-death-gunj-review-929148">
+                  hollywoodreporter.com/review/a-death-gunj-review-929148
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://twitter.com/ADeathInTheGunj"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (@<b>ADeathInTheGunj</b>) | Twitter</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://twitter.com/ADeathInTheGunj"><b>The</b> latest Tweets from A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (@<b>ADeathInTheGunj</b>). This is the official page for A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> written and directed by Konkona Sensharma. Produced ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://twitter.com/ADeathInTheGunj">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/twitter.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://twitter.com/ADeathInTheGunj">
+                  twitter.com/ADeathInTheGunj
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.thehindu.com/entertainment/movies/a-death-in-the-gunj-a-discordant-calm/article18705433.ece"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Review - The Hindu</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.thehindu.com/entertainment/movies/a-death-in-the-gunj-a-discordant-calm/article18705433.ece">Konkona Sen Sharma&#x27;s debut is a marvellously measured film, where each element of filmmaking is staggeringly synchronous with the other</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.thehindu.com/entertainment/movies/a-death-in-the-gunj-a-discordant-calm/article18705433.ece">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.thehindu.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.thehindu.com/entertainment/movies/a-death-in-the-gunj-a-discordant-calm/article18705433.ece">
+                  thehindu.com/entertainment/movies/a-death-in-the-gunj-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.imdb.com/title/tt05918074/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (2016) - IMDb</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.imdb.com/title/tt05918074/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> is a coming of age story that centres around Shutu, our protagonist, and his conflicted ideas of masculinity. He finds himself navigating the ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.imdb.com/title/tt05918074/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.imdb.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.imdb.com/title/tt05918074/">
+                  imdb.com/title/tt05918074/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.koimoi.com/reviews/a-death-in-the-gunj-review-points-a-finger-at-the-cruel-wolf-residing-in-each-of-us/"><b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Koimoi</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.koimoi.com/reviews/a-death-in-the-gunj-review-points-a-finger-at-the-cruel-wolf-residing-in-each-of-us/">Reviews; A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Review: Points A Finger At The Cruel Wolf Residing In Each Of Us A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> is a beautiful slice of a life cum thriller film.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.koimoi.com/reviews/a-death-in-the-gunj-review-points-a-finger-at-the-cruel-wolf-residing-in-each-of-us/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.koimoi.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.koimoi.com/reviews/a-death-in-the-gunj-review-points-a-finger-at-the-cruel-wolf-residing-in-each-of-us/">
+                  koimoi.com/reviews/a-death-in-the-gunj-review-points...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.facebook.com/adeathinthegunj/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Home | Facebook</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.facebook.com/adeathinthegunj/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b>. 26K likes. An Indian family gathering ends in tragedy in this directorial debut from actor-turned-director Konkona Sensharma.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.facebook.com/adeathinthegunj/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.facebook.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.facebook.com/adeathinthegunj/">
+                  facebook.com/adeathinthegunj/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://straightfromamovie.com/a-death-in-the-gunj-review/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> Review (2017) | Diary of the Neglected</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://straightfromamovie.com/a-death-in-the-gunj-review/">Konkana Sen Sharma&#x27;s debut A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> is a beautiful take of the neglected. It is so realistic and uncontrived that it makes you wonder</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://straightfromamovie.com/a-death-in-the-gunj-review/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/straightfromamovie.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://straightfromamovie.com/a-death-in-the-gunj-review/">
+                  straightfromamovie.com/a-death-in-the-gunj-review/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://variety.com/2016/film/reviews/a-death-in-the-gunj-review-1201864953/"><b>&#x27;A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj&#x27;</b> Review | Variety</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://variety.com/2016/film/reviews/a-death-in-the-gunj-review-1201864953/">Shot in the once utopian, now decaying Anglo-Indian community of McCluskiegunj, brittle, late 1970s-set &quot;<b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b>&quot; tells the story of a sensitive ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://variety.com/2016/film/reviews/a-death-in-the-gunj-review-1201864953/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/variety.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://variety.com/2016/film/reviews/a-death-in-the-gunj-review-1201864953/">
+                  variety.com/2016/film/reviews/a-death-in-the-gunj-rev...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.filmipop.com/movies/a-death-in-the-gunj-movie-10436"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Movie: Showtimes, Review, Trailer ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.filmipop.com/movies/a-death-in-the-gunj-movie-10436"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Movie Review &amp; Showtimes: Find details of A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> along with its showtimes, movie review, trailer, teaser, full video songs, showtimes ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.filmipop.com/movies/a-death-in-the-gunj-movie-10436">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.filmipop.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.filmipop.com/movies/a-death-in-the-gunj-movie-10436">
+                  filmipop.com/movies/a-death-in-the-gunj-movie-10436
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.filminquiry.com/a-death-in-the-gunj-2016-review/"><b>A</b> <b>DEATH</b> <b>IN</b> <b>THE</b> <b>GUNJ</b>: An Exploration Of Isolation</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.filminquiry.com/a-death-in-the-gunj-2016-review/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> is a strong debut from actress Konkona Sen Sharma, resulting in one of the most powerful and relatable films of the year.</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.filminquiry.com/a-death-in-the-gunj-2016-review/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.filminquiry.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.filminquiry.com/a-death-in-the-gunj-2016-review/">
+                  filminquiry.com/a-death-in-the-gunj-2016-review/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://indianexpress.com/article/entertainment/movie-review/a-death-in-the-gunj-movie-review-kalki-koechlin-konkona-sen-sharma-vikrant-massey-star-rating-4685356/"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> movie review ... - The Indian Express</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://indianexpress.com/article/entertainment/movie-review/a-death-in-the-gunj-movie-review-kalki-koechlin-konkona-sen-sharma-vikrant-massey-star-rating-4685356/"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> movie review: Konkona Sensharma&#x27;s assured directorial debut, unpacks a complex sentiment with feeling, and gives us a layered film with ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://indianexpress.com/article/entertainment/movie-review/a-death-in-the-gunj-movie-review-kalki-koechlin-konkona-sen-sharma-vikrant-massey-star-rating-4685356/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/indianexpress.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://indianexpress.com/article/entertainment/movie-review/a-death-in-the-gunj-movie-review-kalki-koechlin-konkona-sen-sharma-vikrant-massey-star-rating-4685356/">
+                  indianexpress.com/article/entertainment/movie-review/a-deat...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.youtube.com/watch?v=MmsAVjlfaQQ"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> | Official Trailer | Konkona Sensharma ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.youtube.com/watch?v=MmsAVjlfaQQ">Studioz IDrream Entertainment and MacGuffin Pictures present A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b>, <b>in</b> Association with Moh Maya Films, a MacGuffin Pictures. <b>&#x27;A</b> <b>Death</b> <b>In</b> <b>The</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.youtube.com/watch?v=MmsAVjlfaQQ">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.youtube.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.youtube.com/watch?v=MmsAVjlfaQQ">
+                  youtube.com/watch?v=MmsAVjlfaQQ
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.ndtv.com/topic/a-death-in-the-gunj"><b>a</b> <b>death</b> <b>in</b> <b>the</b> <b>gunj</b> - NDTV.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.ndtv.com/topic/a-death-in-the-gunj">Find A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> Latest News, Videos &amp; Pictures on A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> and see latest updates, news, information from NDTV.COM. Explore more on A <b>Death</b> <b>In</b> <b>The</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.ndtv.com/topic/a-death-in-the-gunj">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.ndtv.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.ndtv.com/topic/a-death-in-the-gunj">
+                  ndtv.com/topic/a-death-in-the-gunj
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.indianfilmfestival.org/a-death-in-the-gunj/"><b>A</b> <b>Death</b> <b>in</b> <b>The</b> <b>Gunj</b> | Iffla</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.indianfilmfestival.org/a-death-in-the-gunj/">Celebrated actress Konkona Sen Sharma steps behind the camera for an electrifying directorial debut with A <b>DEATH</b> <b>IN</b> <b>THE</b> <b>GUNJ</b>. Set in 1979, a wealthy family arrives at ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.indianfilmfestival.org/a-death-in-the-gunj/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.indianfilmfestival.org.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.indianfilmfestival.org/a-death-in-the-gunj/">
+                  indianfilmfestival.org/a-death-in-the-gunj/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.rediff.com/movies/review/review-go-watch-a-death-in-the-gunj/20170602.htm">Review: Go, watch A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> - Rediff.com Movies</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.rediff.com/movies/review/review-go-watch-a-death-in-the-gunj/20170602.htm"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> is not a happy film at all times, but it is very entertaining says Aseem Chhabra. | Review: Go, watch A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b></a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.rediff.com/movies/review/review-go-watch-a-death-in-the-gunj/20170602.htm">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.rediff.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.rediff.com/movies/review/review-go-watch-a-death-in-the-gunj/20170602.htm">
+                  rediff.com/movies/review/review-go-watch-a-death-in-...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://watchdownload.com/watch-movie-online-download/watch-a-death-in-the-gunj-online-stream-download-a-death-in-the-gunj-2016-full-movie-free/">Watch A <b>DEATH</b> <b>IN</b> <b>THE</b> <b>GUNJ</b> (2016) Online Free Streaming ...</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://watchdownload.com/watch-movie-online-download/watch-a-death-in-the-gunj-online-stream-download-a-death-in-the-gunj-2016-full-movie-free/">Tags a <b>death</b> <b>in</b> <b>the</b> <b>gunj</b> watch online <b>death</b> <b>in</b> <b>the</b> <b>gunj</b> watch online a <b>death</b> <b>in</b> <b>the</b> <b>gunj</b> full movie download a <b>death</b> <b>in</b> <b>the</b> <b>gunj</b> full movie watch <b>death</b> <b>in</b> <b>a</b> <b>gunj</b> ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://watchdownload.com/watch-movie-online-download/watch-a-death-in-the-gunj-online-stream-download-a-death-in-the-gunj-2016-full-movie-free/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/watchdownload.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://watchdownload.com/watch-movie-online-download/watch-a-death-in-the-gunj-online-stream-download-a-death-in-the-gunj-2016-full-movie-free/">
+                  watchdownload.com/watch-movie-online-download/watch-a-death...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="https://www.filmibeat.com/bollywood/movies/a-death-in-the-gunj.html"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> - filmibeat.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="https://www.filmibeat.com/bollywood/movies/a-death-in-the-gunj.html"><b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> (<b>A</b> <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> Cast) Bollywood Movie - Catch up latest news about A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> hindi movie, A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> movie review ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="https://www.filmibeat.com/bollywood/movies/a-death-in-the-gunj.html">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.filmibeat.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="https://www.filmibeat.com/bollywood/movies/a-death-in-the-gunj.html">
+                  filmibeat.com/bollywood/movies/a-death-in-the-gunj.html
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.india.com/topic/a-death-in-the-gunj/"><b>A</b> <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> - india.com</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.india.com/topic/a-death-in-the-gunj/">Get latest &amp; exclusive A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b> news updates &amp; stories. Explore photos &amp; videos on A <b>Death</b> <b>In</b> <b>The</b> <b>Gunj</b>. Also get news from India and world including ...</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.india.com/topic/a-death-in-the-gunj/">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.india.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.india.com/topic/a-death-in-the-gunj/">
+                  india.com/topic/a-death-in-the-gunj/
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://in.reuters.com/article/movie-review-death-in-the-gunj-idINKBN18T0XO">Movie Review: A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> | Reuters</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://in.reuters.com/article/movie-review-death-in-the-gunj-idINKBN18T0XO">By Shilpa Jamkhandikar If you have ever been to a small town for your summer holidays, listened in wide-eyed wonder as adults swapped stories</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://in.reuters.com/article/movie-review-death-in-the-gunj-idINKBN18T0XO">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/in.reuters.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://in.reuters.com/article/movie-review-death-in-the-gunj-idINKBN18T0XO">
+                  in.reuters.com/article/movie-review-death-in-the-gunj-id...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+  
+
+
+            <div class="result results_links results_links_deep web-result ">
+
+
+          <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+
+          <h2 class="result__title">
+          
+            <a rel="nofollow" class="result__a" href="http://www.reuters.com/article/movie-review-death-in-the-gunj-idUSKBN18T0XO">Movie Review: A <b>Death</b> <b>in</b> <b>the</b> <b>Gunj</b> | Reuters</a>
+          
+          </h2>
+
+      
+            <a class="result__snippet" href="http://www.reuters.com/article/movie-review-death-in-the-gunj-idUSKBN18T0XO">By Shilpa JamkhandikarIf you have ever been to a small town for your summer holidays, listened in wide-eyed wonder as adults swapped stories around t</a>
+      
+
+      
+
+            <div class="result__extras">
+                <div class="result__extras__url">
+                  <span class="result__icon">
+                    
+                      <a rel="nofollow" href="http://www.reuters.com/article/movie-review-death-in-the-gunj-idUSKBN18T0XO">
+                        <img class="result__icon__img" width="16" height="16" alt=""
+                          src="//icons.duckduckgo.com/ip2/www.reuters.com.ico" name="i15" />
+                      </a>
+                  
+                  </span>
+
+                  <a class="result__url" href="http://www.reuters.com/article/movie-review-death-in-the-gunj-idUSKBN18T0XO">
+                  reuters.com/article/movie-review-death-in-the-gunj-id...
+                  </a>
+
+                  
+
+                </div>
+            </div>
+
+            <div style="clear: both"></div>
+          </div>
+
+        </div>
+
+  
+
+
+
+
+        
+        
+                <div class="nav-link">
+        <form action="/html/" method="post">
+          <input type="submit" class='btn btn--alt' value="Next" />
+          <input type="hidden" name="q" value="A Death in the Gunj" />
+          <input type="hidden" name="s" value="30" />
+          <input type="hidden" name="nextParams" value="Keywords=A%20Death%20in%20the%20Gunj&amp;xargs=12KPjg1pZSrp68i%2D%5FoMPCRErjGnQNVmZ615JIuTcQ%5FQZAD6A5dYdR%5FePqBypItDrUtu0KJk6nQo%5FpPIfD7ucu6&amp;hData=12KPjg1qdOxJy7tuqnF9W2TOCj8m4%2E" />
+          <input type="hidden" name="v" value="l" />
+          <input type="hidden" name="o" value="json" />
+          <input type="hidden" name="dc" value="31" />
+          <input type="hidden" name="api" value="/d.js" />
+
+            
+            
+        
+          <input name="kl" value="us-en" type="hidden" />
+            
+            
+            
+            
+            
+        </form>
+                </div>
+        
+
+
+
+        <div class=" feedback-btn">
+            <a rel="nofollow" href="/feedback.html" target="_new">Feedback</a>
+        </div>
+        <div style="clear:both;"></div>
+  </div>
+  </div> <!-- links wrapper //--> 
+
+    
+
+
+
+    </div>
+  </div>
+
+
+
+
+    <div id="bottom_spacing2"></div>
+
+    
+      <img src="/t/sl_h"/>
+    
+    <img src="/daily/?h" />
+    <img src="/weekly/?h" />
+</body>
+</html>
