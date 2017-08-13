@@ -8,6 +8,7 @@ from pprint import pprint
 import string
 from duckduckgo import search
 import json
+import time
 YEAR = 2000
 with open('movie.json', encoding='cp1252') as movie_list:
     movie = json.load(movie_list)
@@ -20,11 +21,13 @@ headers['User-Agent'] = \
     'Mozilla/5.0 (X11; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0'
 temp = []
 t_data = ['facebook','youtube','wikipedia']
+count  = 0
 for x in range(0, len(movie)):
     try:
         if int(movie[x]['releasedate'][0]) >= YEAR:
             name = movie[x]['name'][0]
             print(name)
+            count = count + 1
             rr = search(name)
             soupp = BeautifulSoup(rr,'html.parser')
             souppp = soupp.select(".result__url")
@@ -41,6 +44,9 @@ for x in range(0, len(movie)):
             data['name'] = name
             pprint(data)
             temp.append(json.dumps(data))
+            if(count > 0):
+                time.sleep(1)
+                count = 0
     except:
         print ('error occured')
 with open('data.txt', 'w') as outfile:  
