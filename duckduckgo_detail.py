@@ -29,6 +29,7 @@ for x in range(0, len(movie)):
             print(name)
             count = count + 1
             rr = search(name)
+            time.sleep(.2)
             soupp = BeautifulSoup(rr,'html.parser')
             souppp = soupp.select(".result__url")
             data = {}
@@ -44,13 +45,13 @@ for x in range(0, len(movie)):
             data['name'] = name
             pprint(data)
             temp.append(json.dumps(data))
-            if(count > 0):
-                time.sleep(1)
+            if(count > 10):
+                time.sleep(3)
                 count = 0
     except:
         print ('error occured')
 with open('data.txt', 'w') as outfile:  
-    json.dump(temp,"duck_data.json")
+    json.dump(temp,outfile)
 
 
 			
